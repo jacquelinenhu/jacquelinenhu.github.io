@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work Experience
-permalink: /news/
+permalink: /work_experience/
 ---
 
 {% include news.liquid %}
