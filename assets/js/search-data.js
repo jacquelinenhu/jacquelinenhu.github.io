@@ -494,9 +494,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-attrition",
+          title: 'Attrition',
+          description: "EDA on Attrition at Frito Lay",
           section: "Projects",handler: () => {
               window.location.href = "/projects/attrition_project/";
             },},{
