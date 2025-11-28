@@ -2,7 +2,7 @@
 layout: page 
 title: Attrition 
 description: EDA on Attrition at Frito Lay 
-img: shutterstock_1696263217_edited.webp 
+img: assets/img/shutterstock_1696263217_edited.webp 
 importance: 1 category: work
 related_publications: true 
 ---
