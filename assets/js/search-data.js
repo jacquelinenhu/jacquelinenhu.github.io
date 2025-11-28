@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-research-assistant-at-chapman-university",
+            },},{id: "news-research-assistant-at-chapman-university",
           title: 'Research Assistant at Chapman University',
           description: "",
           section: "News",},{id: "news-risk-amp-financial-advisory-intern-at-deloitte",
@@ -451,7 +448,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-data-analyst-at-innova-electronics-corporation",
+          title: 'Data Analyst at Innova Electronics Corporation',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
