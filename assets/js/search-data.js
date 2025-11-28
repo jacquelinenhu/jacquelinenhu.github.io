@@ -443,12 +443,10 @@ ninja.data = [{
             },},{id: "news-research-assistant-at-chapman-university",
           title: 'Research Assistant at Chapman University',
           description: "",
-          section: "News",},{id: "news-risk-amp-financial-advisory-intern-at-deloitte",
-          title: 'Risk &amp;amp; Financial Advisory Intern at Deloitte',
+          section: "News",},{id: "news-risk-amp-amp-financial-advisory-intern-at-deloitte",
+          title: 'Risk &amp;amp;amp; Financial Advisory Intern at Deloitte',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-data-analyst-at-innova-electronics-corporation",
+          section: "News",},{id: "news-data-analyst-at-innova-electronics-corporation",
           title: 'Data Analyst at Innova Electronics Corporation',
           description: "",
           section: "News",},{id: "projects-project-1",
