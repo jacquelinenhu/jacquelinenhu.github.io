@@ -4,4 +4,4 @@ title: Work Experience
 permalink: /work_experience/
 ---
 
-{% include news.liquid %}
+{% include work_experience.liquid %}
