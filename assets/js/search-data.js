@@ -494,6 +494,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-abalone-age",
+          title: 'Abalone Age',
+          description: "Predicting the factors that contribute to abalone age",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Doing_Data_Science_Project_2/";
             },},{id: "projects-attrition",
           title: 'Attrition',
           description: "EDA on Attrition at Frito Lay",
