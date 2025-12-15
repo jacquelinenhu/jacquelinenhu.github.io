@@ -9,19 +9,24 @@ related_publications: true
 ---
 
 Project 2: Abalone Age
+
 DS6306: Doing Data Science
+
 Aayush Dalal & Jacqueline Vu
+
 December 14th, 2025
 
-Link to ["Presentation Video"](https://us06web.zoom.us/rec/share/166nceVllSe6LfS8Ad7QWQQPzGyhJtTpbtQ_gCKv4owhlnZF1djtXMySJfehI6wC.wzp4ASo8yjK00eb9)
+Link to ["Presentation Video"](Https://us06web.zoom.us/rec/share/_MHaBdcZFRIaoyMpZ1IE_05txdI6wEv4WWT7UuqAJ6IXSREPt3G3TaobSzGiklaa.0aDjE6TDtyct8aE1?startTime=1765755976000)
 
-Use this passcode to access the video: =M9wHA#z
+- Use this passcode to access the video: 2wJSu2!q
 
 Link to ["Presentation Slides"](https://docs.google.com/presentation/d/1Pk3ihXKNcKFP_-tJJhpop9u-J6juCgFOY1tqb-MAq9Y/edit?usp=sharing)
 
 Link to ["RAG Application"](https://colab.research.google.com/drive/1o3ShtNyI65zYJyPDbFMo-4yhT87WbZNV?usp=sharing)
 
 Link to ["RShiny Application"](https://aayushdalal2025.shinyapps.io/AbaloneAgeApp/)
+
+Link to the CSV file of the competition set in the ["Github Repository"](https://github.com/jacquelinenhu/Project2AbaloneAge/blob/main/abalone_predictions_competition_spline_step.csv)
 
 Link to the Write Up:
 <!--
